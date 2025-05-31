@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello 
 sonu
 hii 
@@ -5,3 +6,9 @@ dinesh
 i
  am finding for intern 
 ship
+=======
+AIML
+CSE
+EEE
+ECE
+>>>>>>> fb
